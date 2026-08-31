@@ -17,3 +17,8 @@ During the final 10 minutes of trading, aggressive order book imbalances often s
 
 ## Strategy Script
 The full strategy backtest code is contained in `main.py` using Pandas vectorized operations.
+
+## Key Formulae
+
+<img width="513" height="85" alt="image" src="https://github.com/user-attachments/assets/269a97c1-9097-4d16-aa82-dc6fba51b787" />
+<img width="817" height="326" alt="image" src="https://github.com/user-attachments/assets/93fac597-ab44-4592-94ca-09ce9467854c" />
