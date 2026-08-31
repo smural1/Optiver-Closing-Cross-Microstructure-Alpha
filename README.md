@@ -8,11 +8,9 @@ Quantitative analysis of order book microstructure signals during the Nasdaq clo
 During the final 10 minutes of trading, aggressive order book imbalances often suffer from adverse selection as high-frequency liquidity providers lean against the flow. A naive momentum strategy decays rapidly, whereas a **mean-reverting contrarian strategy** captures short-term price reversals.
 
 ## Performance Metrics
-- **Dataset Evaluated:** 250,000 Order Book Ticks
-- **Information Coefficient (IC):** 0.1387
-- **Mean Absolute Error (MAE):** 7.9571
-- **Annualized Sharpe Ratio:** 17.38
-- **Active Positions Taken:** 184,295
+- **Dataset Evaluated:** 4.2 Million Order Book Ticks
+- **Information Coefficient (IC):** -0.1030
+
 
 ## Key Visualizations
 ![Cumulative PnL](pnl_plot.png)
